@@ -12,6 +12,7 @@ For full transparency, I also provide a full list of potential competing interes
 
 Categories in this document come from the International Committee of Medical Journal Editors (ICMJE) Form for Disclosure of Potential Conflicts of Interest.
 Following ICMJE recommendations, I list potential conflicts for at least 36 months after the relevant relationships conclude.
+Using a Git repository for the disclosure enables later examination of since-removed conflicts and therefore fuller disclosure.
 
 ## Disclosures
 ### Employment and academic appointments
