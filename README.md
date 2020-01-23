@@ -47,6 +47,15 @@ I would like to disclose earlier expense reimbursements but it will be difficult
 Until I can do so, I will keep notes in this comment.
 -->
 
+### Investments
+
+I do not have any investments in individual businesses.
+All my individual investments are in mutual funds or exchange-traded funds
+These funds have broad investment strategies focusing on security types (stocks or debt), groups of countries (for example, investments in the United States, or investments outside North America) and market capitalization divisions (for example small-cap, mid-cap, or large-cap).
+None of these funds focus on particular market sectors or industries.
+
+I also hold a pension through the Healthcare of Ontario Pension Plan.
+
 ## Feedback
 
 Please provide feedback on this repository via GitHub Issues: https://github.com/michaelmhoffman/disclosure/issues
@@ -60,4 +69,4 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Last updated
 
-This document is valid as of 2020-01-21.
+This document is valid as of 2020-01-23.
