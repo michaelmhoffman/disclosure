@@ -50,7 +50,7 @@ Until I can do so, I will keep notes in this comment.
 ### Investments
 
 I do not have any investments in individual businesses.
-All my individual investments are in mutual funds or exchange-traded funds
+All my individual investments are in mutual funds or exchange-traded funds.
 These funds have broad investment strategies focusing on security types (stocks or debt), groups of countries (for example, investments in the United States, or investments outside North America) and market capitalization divisions (for example small-cap, mid-cap, or large-cap).
 None of these funds focus on particular market sectors or industries.
 
