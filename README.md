@@ -58,14 +58,19 @@ I also hold a pension through the Healthcare of Ontario Pension Plan.
 
 ## Feedback
 
-Please provide feedback on this repository via GitHub Issues: https://github.com/michaelmhoffman/disclosure/issues
+Please provide feedback on this repository via [GitHub Issues](https://github.com/michaelmhoffman/disclosure/issues).
 
 ## License
 
-This disclosure is provided under an Attribution 4.0 International (CC BY 4.0) license.
-This should make it easier for you to make your own disclosure.
+Copyright 2020 Michael M. Hoffman.
+Available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
-https://creativecommons.org/licenses/by/4.0/
+## How to make your own disclosure
+
+Feel free to clone this repository to make your own disclosure.
+If you do this, please retain the following notice somewhere in your document:
+
+> Based on [Michael M. Hoffman's disclosures](https://github.com/michaelmhoffman/disclosure), copyright 2020 Michael M. Hoffman, and available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## Last updated
 
