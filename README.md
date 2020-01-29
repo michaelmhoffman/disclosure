@@ -51,7 +51,7 @@ Until I can do so, I will keep notes in this comment.
 
 I do not have any investments in individual businesses.
 All my individual investments are in mutual funds or exchange-traded funds.
-These funds have broad investment strategies focusing on security types (stocks or debt), groups of countries (for example, investments in the United States, or investments outside North America) and market capitalization divisions (for example small-cap, mid-cap, or large-cap).
+These funds have broad investment strategies focusing on asset class (stocks or debt), groups of countries (for example, investments in the United States, or investments outside North America) and market capitalization divisions (for example small-cap, mid-cap, or large-cap).
 None of these funds focus on particular market sectors or industries.
 
 I also hold a pension through the Healthcare of Ontario Pension Plan.
@@ -74,4 +74,4 @@ If you do this, please retain the following notice somewhere in your document:
 
 ## Last updated
 
-This document is valid as of 2020-01-23.
+This document is valid as of 2020-01-29.
