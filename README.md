@@ -37,7 +37,7 @@ Using a Git repository for the disclosure enables later examination of since-rem
 
 ### Patent applications
 
-- Provisional patent application: detection of DNA methylation in blood and application
+- Patent application: detection of DNA methylation in blood and application
 
 <!--
 ### Travel expenses
