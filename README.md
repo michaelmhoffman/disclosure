@@ -37,7 +37,7 @@ Using a Git repository for the disclosure enables later examination of since-rem
 
 ### Patent applications
 
-- Patent application: detection of DNA methylation in blood and application
+- Synthetic spike-in controls for cell-free MeDIP sequencing and methods of using same
 
 <!--
 ### Travel expenses
@@ -62,7 +62,7 @@ Please provide feedback on this repository via [GitHub Issues](https://github.co
 
 ## License
 
-Copyright 2020 Michael M. Hoffman.
+Copyright 2020–2021 Michael M. Hoffman.
 Available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## How to make your own disclosure
@@ -74,4 +74,4 @@ If you do this, please retain the following notice somewhere in your document:
 
 ## Last updated
 
-This document is valid as of 2020-01-29.
+This document is valid as of 2021-02-16.
