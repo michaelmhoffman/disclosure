@@ -37,7 +37,7 @@ Using a Git repository for the disclosure enables later examination of since-rem
 
 ### Patent applications
 
-- Synthetic spike-in controls for cell-free MeDIP sequencing and methods of using same
+- Synthetic spike-in controls for cell-free MeDIP sequencing and methods of using same (licensed to DNAMx)
 
 <!--
 ### Travel expenses
