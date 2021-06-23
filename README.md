@@ -70,8 +70,8 @@ Available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](h
 Feel free to clone this repository to make your own disclosure.
 If you do this, please retain the following notice somewhere in your document:
 
-> Based on [Michael M. Hoffman's disclosures](https://github.com/michaelmhoffman/disclosure), copyright 2020 Michael M. Hoffman, and available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+> Based on [Michael M. Hoffman's disclosures](https://github.com/michaelmhoffman/disclosure), copyright 2020-2021 Michael M. Hoffman, and available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## Last updated
 
-This document is valid as of 2021-02-16.
+This document is valid as of 2021-06-23.
