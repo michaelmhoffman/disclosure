@@ -21,6 +21,10 @@ Using a Git repository for the disclosure enables later examination of since-rem
 - University of Toronto
 - Vector Institute
 
+### Speaking fees
+
+- Verge Genomics
+
 ### Funding: grant
 
 - Canadian Institutes of Health Research
@@ -43,7 +47,7 @@ Using a Git repository for the disclosure enables later examination of since-rem
 ### Travel expenses
 
 Travel expense reimbursements and honoraria since 2020-01-01.
-I would like to disclose earlier expense reimbursements but it will be difficult to ensure an accurate, exhaustive list for the last 36 months.
+I would like to disclose earlier university and non-profit expense reimbursements but it will be difficult to ensure an accurate, exhaustive list for the last 36 months.
 Until I can do so, I will keep notes in this comment.
 -->
 
